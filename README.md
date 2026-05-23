@@ -9,9 +9,13 @@ I enjoy designing maintainable systems, improving performance, and building prod
 🛠 Tech
 
 Backend · Node.js · Express.js · REST APIs · Microservices · Monolithic Architecture
+
 Frontend · Vue.js · Quasar · Angular
+
 Databases · MySQL · MariaDB · PostgreSQL · MongoDB
+
 Cloud & DevOps · Docker · Kubernetes (Basic) · Redis · Proxmox
+
 Tools & Other · RabbitMQ · Swagger · Git · Cron Jobs
 
 💼 Experience
