@@ -37,5 +37,7 @@ Worked on backend and frontend development projects using JavaScript technologie
 
 📫 Connect
 GitHub: https://github.com/mooka95
+
 LinkedIn: https://www.linkedin.com/in/mohamed-rabie-0a653116a/
+
 Email: mohamed.osa.22@gmail.com
