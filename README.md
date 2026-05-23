@@ -1,6 +1,6 @@
 Hi, I'm Mohamed Rabie 👋
 
-Full-Stack Software Engineer — 3+ years building cloud platforms, backend systems, and scalable web applications using Node.js, Vue.js, and modern DevOps tools.
+Full-Stack Software Engineer — 4+ years building cloud platforms, backend systems, and scalable web applications using Node.js, Vue.js, and modern DevOps tools.
 
 I work across the full stack with a backend focus on Node.js / Express / JavaScript, while also building frontend applications with Vue.js / Quasar / Angular.
 I enjoy designing maintainable systems, improving performance, and building products that solve real business problems.
@@ -19,6 +19,7 @@ Cloud & DevOps · Docker · Kubernetes (Basic) · Redis · Proxmox
 Tools & Other · RabbitMQ · Swagger · Git · Cron Jobs
 
 💼 Experience
+
 VPSie — Full-Stack Developer (2022 – Present)
 
 Worked on a cloud & VPS management platform focused on virtualization and infrastructure automation.
